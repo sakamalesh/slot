@@ -180,7 +180,10 @@ Execute the program using runserver command.
 
 """
 
+
+
 ## OUTPUT
+![Screenshot 2024-03-30 141857](https://github.com/sakamalesh/slot/assets/149148235/84824ecc-a2aa-4ff1-a042-16b7b04442d3)
 
 
 ## RESULT
